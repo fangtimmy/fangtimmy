@@ -6,5 +6,5 @@
 - ✍️ I write (in Chinese) about security, dev tooling and tinkering at [blog.timmy.host](https://blog.timmy.host)
 
 <!-- STATS:START (auto-updated by .github/workflows/stats.yml, do not edit) -->
-⭐ 45 stars · 🕓 1,020 commits · 🔀 7 PRs · 👥 54 followers
+⭐ 44 stars · 🕓 1,021 commits · 🔀 7 PRs · 👥 55 followers
 <!-- STATS:END -->
